@@ -1,0 +1,8 @@
+move curriculo.py src/
+move vaga.py src/
+move avaliador.py src/
+move sistema.py src/
+move gemini_client.py src/
+move interface_streamlit.py interface/
+move test_curriculo.py tests/
+move exemplo.docx tests/
