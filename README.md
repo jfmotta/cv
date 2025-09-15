@@ -12,3 +12,7 @@
 
 ![Upload](images/upload.png)
 
+![Upload](images/requisitos.png)
+
+![Upload](images/resultado.png)
+
