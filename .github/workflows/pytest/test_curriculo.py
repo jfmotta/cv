@@ -1,3 +1,5 @@
+cv/pytest/test_curriculo.py
+
 from curriculo import extrair_texto_docx
 
 def test_extrair_texto_docx_completo():
