@@ -8,3 +8,7 @@
 
 ### 📊 Resultado da análise
 ![Resultado](resultado.png)
+
+
+![Upload](images/upload.png)
+
