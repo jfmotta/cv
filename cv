@@ -1,6 +1,8 @@
 
 cd caminho\para\sua\pasta\cv
 
+streamlit run interface_streamlit.py
+
 move curriculo.py src/
 move vaga.py src/
 move avaliador.py src/
@@ -10,5 +12,5 @@ move interface_streamlit.py interface/
 move test_curriculo.py tests/
 move exemplo.docx tests/
 
-streamlit run interface_streamlit.py
+
 
