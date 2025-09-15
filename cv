@@ -1,1 +1,5 @@
 streamlit run interface_streamlit.py
+
+git add images/
+git commit -m "Adiciona capturas de tela da interface"
+git push
