@@ -1,2 +1,7 @@
 mkdir images
+cd cv
+git add images/
+git commit -m "Adiciona capturas de tela da interface"
+git push
+
 
